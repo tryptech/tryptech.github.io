@@ -1,18 +1,22 @@
-site: Made Jekyll Theme
+site: Marcko Sicoco
+email: mmsicoco@gmail.com
 
-url: 
+url: "tryptech.github.io"
 baseurl: 
+
+twitter_username: yo_tryptech
+github_username:  tryptech
 
 collections:
   pages:
     output: true
     permalink: /:name
   posts:
-    output: true
+    output: false
     permalink: /blog/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /projects/:slug
 
 defaults:
   -
@@ -58,4 +62,4 @@ plugins:
   - jekyll-sitemap
 
 paginate: 7
-paginate_path: "/blog/page-:num/"
+paginate_path: "/works/page-:num/"

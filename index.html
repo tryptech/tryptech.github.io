@@ -3,7 +3,7 @@ layout: default
 overtitle: Made is a Jekyll theme
 title: For designers and web developers
 description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
-featured_image: /images/social.jpg
+featured_image:
 ---
 
 <div class="page-home">
@@ -47,7 +47,7 @@ featured_image: /images/social.jpg
 					<p class="project__description --small">
 						{{ project.description }}
 						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Case Study</a>
+							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Project</a>
 					</p>
 				</div>
 			</article>
@@ -58,6 +58,7 @@ featured_image: /images/social.jpg
 
 	{% include section__about.html %}
 
+	{% if site.data.settings.basic_settings.blog_enabled == true %}
 	<section class="recent-posts">
 		<div class="wrap grid">
 			<header class="recent-posts__header">
@@ -74,4 +75,5 @@ featured_image: /images/social.jpg
 			<a href="{{ '/blog' | relative_url }}" class="action-bottom button--text--accent --right">All Posts</a>
 		</div>
 	</section>
+	{% endif %}
 </div>
