@@ -1,8 +1,12 @@
 ---
 title: Stony Brook University DoIT Communications
+subtitle: Student body and interdepartmental communications
 date: 2017-10-30 00:00:00
-subtitle: 
-featured_image: '/images/projects/doit/sbu.png'
+description: Student work creating visual media to inform the campus of different technology services from different University departments
+featured_image: '/doit/sbu.png'
+accent_color: '#990000'
+gallery_images:
+  - '/doit/sbu.png'
 ---
 
 When I transitioned my major to Studio Art in 2016, I spent some time working for the Stony Brook University's Department of Information Techology communications group. At the time, SBU just began implementing its new FAR BEYOND branding across campus and throughout its media presence. Under the guidance of Kerrin Perniciaro and Nicholas Ciuffo, I focused on promoting the technology services to the student body as well as campus outreach. 

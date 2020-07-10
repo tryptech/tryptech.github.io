@@ -1,8 +1,12 @@
 ---
 title: FIND District III Logo Contest
+subtitle: T-shirt and logo design
 date: 2013-05-11 00:00:00
-subtitle: Contest entry into the Filipino Intercollegiate Networking Dialogue’s Third District annual contest for a new logo/t-shirt design.
-featured_image: '/images/projects/d3-contest/logo.png'
+description: Winning contest entry into the Filipino Intercollegiate Networking Dialogue’s Third District annual contest for a new logo/t-shirt design.
+featured_image: '/d3-contest/logo.png'
+accent_color: '#FFBB33'
+gallery_images:
+  - '/d3-contest/logo.png'
 ---
 
 The Filipino Intercollegiate Networking Dialogue’s Third District runs a contest every year for a new logo/t-shirt design. I entered for the 2013-2014 year and won.
