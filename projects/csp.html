@@ -21,20 +21,20 @@
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="/images/favicon.png">
 	<title>Cosmetic Standardization Project – Marcko Sicoco</title>
-	<meta name="description" content="">
+	<meta name="description" content="Comprehensive 3D and 2D asset creation workflow for third-party video game modifications">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title"
 		content="Cosmetic Standardization Project – Marcko Sicoco">
-	<meta name="twitter:description" content="">
-	<meta name="twitter:image:src" content="tryptech.github.io/demo.jpg">
+	<meta name="twitter:description" content="Comprehensive 3D and 2D asset creation workflow for third-party video game modifications">
+	<meta name="twitter:image:src" content="tryptech.github.io/csp/preview.png">
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title"
 		content="Cosmetic Standardization Project – Marcko Sicoco" />
-	<meta property="og:description" content="" />
-	<meta property="og:image" content="tryptech.github.io/demo.jpg" />
+	<meta property="og:description" content="Comprehensive 3D and 2D asset creation workflow for third-party video game modifications" />
+	<meta property="og:image" content="tryptech.github.io/csp/preview.png" />
 
 	
 	<!-- Font Embed Code -->
@@ -82,8 +82,8 @@
 	<div class="wrap grid__2-col">
 
 		
-		<a href="/" class="header__title">
-			Marcko Sicoco
+		<a href="/" class="header__logo">
+			<img src="/images/logo_s.png" class="header__logo__img">
 		</a>
 		
 
@@ -192,10 +192,12 @@
 
 		<div class="wrap">
 			<h1 class="post__title">Cosmetic Standardization Project</h1>
-			<h2 class="post__subtitle subtitle--light">Comprehensive asset creation workflow for third-party modifications of the *Super Smash Bros. Brawl* video game</h2>
+			<h2 class="post__subtitle subtitle--light">Asset creation tools and workflow development</h2>
 		</div>
 
-		<img src="/images/projects/demo.jpg" class="post__featured-image">
+		
+		<img src="/images/projects//csp/preview.png" class="post__featured-image">
+		
 
 	</header>
 
@@ -205,138 +207,22 @@
 		<div class="wrap">
 
 			<article class="post__content ">
-				<p>This page is a demo that shows everything you can do inside portfolio and blog posts.</p>
+				<p>In late 2017, I was approached to help design and create a workflow to make the creation of standardized cosmetic assets relatively simple. I implemented a workflow using Blender and GIMP that output images sized perfectly for in-game use, enabling people to create custom assets that align perfectly with others with no knowledge of 3D rendering or compositing.</p>
 
-<p>We’ve included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.</p>
-
-<p><img src="/images/demo.jpg" alt="" /></p>
-
-<p><strong>Obviously,</strong> we’ve styled up <em>all the basic</em> text formatting options <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">available in markdown</a>.</p>
-
-<p>You can create lists:</p>
-
-<ul>
-  <li>Simple bulleted lists</li>
-  <li>Like this one</li>
-  <li>Are cool</li>
-</ul>
-
-<p>And:</p>
-
-<ol>
-  <li>Numbered lists</li>
-  <li>Like this other one</li>
-  <li>Are great too</li>
-</ol>
-
-<p>You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:</p>
-
-<blockquote>
-  <p>“Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”</p>
-</blockquote>
-
-<p>The theme also supports markdown tables:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Item</th>
-      <th>Author</th>
-      <th>Supports tables?</th>
-      <th>Price</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Duet Jekyll Theme</td>
-      <td>Jekyll Themes</td>
-      <td>Yes</td>
-      <td>$49</td>
-    </tr>
-    <tr>
-      <td>Index Jekyll Theme</td>
-      <td>Jekyll Themes</td>
-      <td>Yes</td>
-      <td>$49</td>
-    </tr>
-    <tr>
-      <td>Journal Jekyll Theme</td>
-      <td>Jekyll Themes</td>
-      <td>Yes</td>
-      <td>$49</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>And footnotes<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>, which link to explanations<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> at the bottom of the page<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>.</p>
-
-<p>You can throw in some horizontal rules too:</p>
-
-<hr />
-
-<h4 id="image-galleries">Image galleries</h4>
-
-<p>Here’s a really neat custom feature we added – galleries:</p>
-
-<div class="gallery full-width" data-columns="2"><img src="/images/demo.jpg" /><img src="/images/demo.jpg" /><img src="/images/demo.jpg" /><img src="/images/demo.jpg" /><img src="
+<div class="gallery full-width" data-columns="1"><img src="/images/projects/csp/gallery/preview.png
 	" /></div>
 
-<p>Inspired by the Galleries feature from WordPress, we’ve made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:</p>
+<p>I created dozens of scenes for different 3D models. I posed, applied materials to, and subdivided each model to clean them up as much as possible for the project to minimize the amount of work others would need to do. There are multiple render layers for each scene to account for different assets. The compositor is also set up to do the consistant adjustments to lighting and color automatically. All anyone needs to do is adjust the textures to what they want. I also wrote a number of GIMP plug-ins that automate the process of taking the images from Blender to prep them for in-game use. The resulting images are perfectly consistent with only a few mouse clicks.</p>
 
-<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-6
-</pre></td><td class="rouge-code"><pre><span class="p">{%</span><span class="w"> </span><span class="nt">include</span><span class="w"> </span>post-components/gallery.html<span class="err">
-</span><span class="w">	</span><span class="na">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">2</span><span class="err">
-</span><span class="w">	</span><span class="na">full_width</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">true</span><span class="err">
-</span><span class="w">	</span><span class="na">images</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"</span><span class="err">
-</span><span class="p">%}</span>
-</pre></td></tr></tbody></table></code></pre></div></div>
-
-<p><em>See what we did there? Code and syntax highlighting is built-in too!</em></p>
-
-<p>Change the number inside the ‘columns’ setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.</p>
-
-<h4 id="image-carousels">Image carousels</h4>
-
-<p>Here’s another gallery with only one column, which creates a carousel slide-show instead.</p>
-
-<p>A nice little feature: the carousel only advances when it is in view, so your visitors won’t scroll down to find it half way through your images.</p>
-
-<div class="gallery full-width" data-columns="1"><img src="/images/demo.jpg" /><img src="/images/demo.jpg" /><img src="/images/demo.jpg
+<div class="gallery full-width" data-columns="1"><img src="/images/projects/csp/gallery/processing.png
 	" /></div>
 
-<h4 id="what-about-videos">What about videos?</h4>
+<p>After the public release of the project, its Discord Server has grown to over 1200 members that have learned how to use the tools and workflow I’ve developed. Many of them have gone beyond that, learning more about Blender and the general 3D workflow.</p>
 
-<p>Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:</p>
+<div class="gallery full-width" data-columns="1"><img src="/images/projects/csp/gallery/discord.png
+	" /></div>
 
-<div class="video-wrap full-width">
-  <iframe src="https://player.vimeo.com/video/270725085?color=6c6e95&amp;title=0&amp;byline=0" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
-
-<h3 id="pretty-cool-huh">Pretty cool, huh?</h3>
-
-<p>We’ve packed this theme with powerful features to show off your work.
-Why not put them to use on your new website?</p>
-
-<p><a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get This Theme</a></p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Beautiful modern, minimal theme design. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>Powerful features to show off your work. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:3">
-      <p>Maintained and supported by the theme developer. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
+<p>I’m currently working on a new revision of the project that aims to take advantage of the new Eevee engine in Blender 2.8 to make the process more accessible to lower end hardware and streamline a lot of the existing process.</p>
 
 			</article>
 			
@@ -461,12 +347,10 @@ Why not put them to use on your new website?</p>
 
     <div class="about__content">
       <h2 class="title">Hey, I’m Marcko, nice to meet you!</h2>
-      <p class="subtitle subtitle--light">I’m a designer and a developer with over 12 years of experience under my belt.
+      <p class="subtitle subtitle--light">I’m a digital artists with flexible, technical background.
       </p>
 
-      <p>My skills include product design, interactive design, aesthetic art direction, prototyping, mobile design,
-        branding, front-end development and team leadership. I’m interested in clean aesthetics, minimalism, unusual
-        typography, photography and simplistic UX solutions.</p>
+      <p>I started in electrical engineering and programming and ended with electronic media and photography. I'm interested in using technology to create, and in making that process simple for others.</p>
       <p>I’d love to learn about your company and see how I can help, feel free to send me an email!</p>
 
       <a href="#" class="cta button--fill contact-trigger js-contact">Get in Touch</a>

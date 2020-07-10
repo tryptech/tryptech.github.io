@@ -2,7 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>tryptech.github.io/thanks</loc>
-<lastmod>2020-07-08T20:07:19+00:00</lastmod>
+<lastmod>2020-07-10T05:14:11+00:00</lastmod>
+</url>
+<url>
+<loc>tryptech.github.io/projects/student</loc>
+<lastmod>2013-01-01T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>tryptech.github.io/projects/find-contest</loc>
@@ -15,10 +19,6 @@
 <url>
 <loc>tryptech.github.io/projects/sayaw</loc>
 <lastmod>2014-08-31T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>tryptech.github.io/projects/3d-fan-art-and-mods</loc>
-<lastmod>2016-08-15T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>tryptech.github.io/projects/doit-comms</loc>
