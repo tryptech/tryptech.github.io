@@ -170,8 +170,14 @@
     max-width: 456px;
   }
 
-  .project__subtitle {
+  .project__subtitle:last-of-type {
     margin-bottom: 16px;
+  }
+
+  .project__subtitle > .--small {
+    color: $text-medium-color;
+    font-size: 1.2rem;
+    font-weight: 700;
   }
 
   .project__link {

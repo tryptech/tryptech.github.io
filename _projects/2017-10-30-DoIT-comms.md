@@ -2,6 +2,7 @@
 title: Stony Brook University DoIT Communications
 subtitle: Student body and interdepartmental communications
 date: 2017-10-30 00:00:00
+date_range: 2016 to 2017
 description: Student work creating visual media to inform the campus of different technology services from different University departments
 featured_image: '/doit/sbu.png'
 accent_color: '#990000'

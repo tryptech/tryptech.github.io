@@ -2,7 +2,7 @@
 layout: default
 overtitle: Digital artist
 title: Marcko Sicoco
-description: 2D, 3D, digital, and print works.
+description: I'm a digital artist focused on 2D, 3D, web, and print works. I have a background in electrical and computer engineering, and I'm highly flexible and adaptible for different projects!
 featured_image:
 ---
 
@@ -12,19 +12,7 @@ featured_image:
 	<img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
 	{% endif %}
 
-	<section class="hero">
-		<div class="wrap grid">
-			<div class="title">
-				<p class="subtitle">{{ page.overtitle }}</p>
-				<h1>{{ page.title }}</h1>
-			</div>
-
-			<p class="intro subtitle--light">
-				{{ page.description }}
-				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Get In Touch</a>
-			</p>
-		</div>
-	</section>
+	{% include section__about.html %}
 
 	<section class="listing">
 		<div class="wrap">
@@ -43,7 +31,9 @@ featured_image:
 				</div>
 
 				<div class="project__content grid" style="border-color: {{ accent_color }}">
-					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
+					<p class="project__subtitle subtitle--light">{{ project.subtitle }}
+						{% if project.date_range %}<br/><span class="--small">{{ project.date_range }}</span>{% endif %}
+					</p>
 					<p class="project__description --small">
 						{{ project.description }}
 						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
@@ -55,8 +45,6 @@ featured_image:
 			{% endfor %}
 		</div>
 	</section>
-
-	{% include section__about.html %}
 
 	{% if site.data.settings.basic_settings.blog_enabled == true %}
 	<section class="recent-posts">
