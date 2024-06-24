@@ -1527,7 +1527,7 @@ li {
     padding-bottom: var(--padding-thin);
 }
 
-a[href^="http"] {
+:not(.socials) a[href^="http"] {
     background-image: url(../img/external-link.svg);
     background-repeat: no-repeat;
     background-position: right;
