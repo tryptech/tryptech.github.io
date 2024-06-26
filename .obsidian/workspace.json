@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Space Lady.md",
+                "file": "_notes/Public/Space Lady.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Space Lady.md",
+                "file": "_notes/Public/Space Lady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Space Lady.md",
+                "file": "_notes/Public/Space Lady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Space Lady.md"
+                "file": "_notes/Public/Space Lady.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "41c34b42670b2494",
   "lastOpenFiles": [
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Space Lady.md",
+    "_notes/Public/Space Lady at the Beach.md",
+    "assets/video",
     "assets/img/Space-Lady/Pasted_image_20240626030815.png",
     "assets/img/Space-Lady/Pasted_image_20240626030617.png",
     "assets/img/Space-Lady/Pasted_image_20240626021726.png",
@@ -158,14 +162,10 @@
     "assets/img/Space-Lady/Pasted_image_20240626020323.png",
     "assets/img/Space-Lady/Pasted_image_20240626020122.png",
     "assets/img/Space-Lady/Pasted_image_20240626015721.png",
-    "assets/img/Space-Lady/Pasted_image_20240626015059.png",
     "assets/img/Space-Lady/test.mp4",
     "assets/img/Space-Lady",
     "assets/img/New folder",
-    "_posts/Space Lady.md",
     "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Space Lady at the Beach.md",
-    "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Credits.md",
     "assets/img/test.mp4",
     "Untitled.canvas",

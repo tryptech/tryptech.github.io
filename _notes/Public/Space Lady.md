@@ -19,7 +19,10 @@ The original design goals were:
 
 The earliest surviving screens I have (rip gfycat) did not look good, and I somehow thought it was okay to call done, and there were ***a lot*** of times I thought I was done; thank goodness I kept working on it.  
 
-![](/assets/img/Space-Lady/test.mp4 "Early ZSS Turaround")
+<video autoplay loop>
+	<source src="/assets/img/Space-Lady/test.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
 ![](/assets/img/Space-Lady/Pasted_image_20240626004038.png "Early ZSS with SJSamus")
 ![](/assets/img/Space-Lady/Animation19.gif "Early animation test")
 ![](/assets/img/Space-Lady/Pasted_image_20240626004425.png "Early pose concept")

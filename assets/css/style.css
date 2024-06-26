@@ -127,6 +127,8 @@ p {
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-normal);
     margin: 0 0 1em 0;
+    display: grid;
+    grid-gap: 6px;
 }
 
 code {
