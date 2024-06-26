@@ -345,11 +345,43 @@ ul ul {
     color: var(--color-text-main);
     padding: 0.5rem;
     transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    position: relative;
+    overflow: hidden;
 }
 
 .list-feed a:hover {
     color: var(--color-text-link);
     padding: 2rem 0.5rem;
+}
+
+.list-feed a .post-banner {
+    background-position: 20% center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    -webkit-filter: grayscale(0.8) opacity(0.5);
+    filter: grayscale(0.8) opacity(0.5);
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.list-feed a:hover .post-banner {
+    width: calc(100% + 2rem);
+    height: calc(100% + 2rem);
+    -webkit-filter: grayscale(0) opacity(1);
+    filter: grayscale(0) opacity(1);
+
+}
+
+.list-feed a .writinglist-title {
+    z-index: 1;
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.list-feed a:hover .writinglist-title {
+    text-shadow: 0 0 0.5rem var(--color-text-main);
 }
 
 /* 08. Figures, Images, Code, Blockquotes, Tables */
