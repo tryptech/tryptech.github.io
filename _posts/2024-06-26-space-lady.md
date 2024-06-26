@@ -1,6 +1,6 @@
 ---
 title: Space Lady
-feed: hide
+feed: show
 ---
 TL;DR:
 
