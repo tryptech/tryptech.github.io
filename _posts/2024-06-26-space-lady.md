@@ -48,7 +48,7 @@ Once I had the final proportions locked in, I started working on the alts Fusion
 <img src="/assets/img/Space-Lady/Pasted_image_20240626004931.png" loading="lazy" alt="Super blockout">
 
 # December 2020
-By the end of the year SJS jumped on to do the textures for the alts. I did the modeling, gave him a base skin texture to detail (yes, I have a fully body skin textured ZSS) and the modeling and texturing of the bodies could have been considered complete by the end of 2020. All that was left was hair, and then all of the other technical nonsense like rigging and optimization.
+By the end of the year SJS jumped on to do the textures for the alts. I did the modeling, gave him a base skin texture to detail (yes, I have a fully body skin textured ZSS; no, you can't have it) and the modeling and texturing of the bodies could have been considered complete by the end of 2020. All that was left was hair, and then all of the other technical nonsense like rigging and optimization.
 
 In my explorations on how to approach new hair, I tried a few things, like using the Alucard assist trophy from SSBU as a point of reference, 
 <img src="/assets/img/Space-Lady/Pasted_image_20240626005756.png" loading="lazy" alt="Alucard hair on ZSS">
