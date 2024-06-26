@@ -261,8 +261,12 @@ a {
 img {
   height: auto;
   max-width: 100%;
-  padding: 1rem 0; 
+  margin: 1rem 0 0; 
   display: block; }
+
+img:last-child {
+  margin-bottom: 1rem 0;
+}
 
 input[type="checkbox"],
 input[type="radio"] {
