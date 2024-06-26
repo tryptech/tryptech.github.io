@@ -193,7 +193,8 @@ img,
 video {
   height: auto;
   max-width: 100%; 
-  justify-self: center; }
+  margin: 0 auto;
+}
 
 iframe {
   border: 0; }
@@ -253,9 +254,9 @@ a {
   color: var(--color-text-link);
   cursor: pointer;
   text-decoration: none; }
+
   a strong {
-    color: currentColor; }
-   }
+  color: currentColor; }
 
 img {
   height: auto;
