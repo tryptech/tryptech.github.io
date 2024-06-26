@@ -332,7 +332,6 @@ ul ul {
 .list-feed {
     color: var(--color-text-main);
     display: block;
-    padding: 0.5rem;
     border-bottom: 1px solid var(--color-border-light);
 }
 
@@ -344,10 +343,13 @@ ul ul {
 
 .list-feed a {
     color: var(--color-text-main);
+    padding: 0.5rem;
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .list-feed a:hover {
     color: var(--color-text-link);
+    padding: 2rem 0.5rem;
 }
 
 /* 08. Figures, Images, Code, Blockquotes, Tables */
