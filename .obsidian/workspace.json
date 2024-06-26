@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Space Lady.md",
+                "file": "_posts/Space Lady.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Space Lady.md",
+                "file": "_posts/Space Lady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Space Lady.md",
+                "file": "_posts/Space Lady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Space Lady.md"
+                "file": "_posts/Space Lady.md"
               }
             }
           }
@@ -148,18 +148,21 @@
   },
   "active": "41c34b42670b2494",
   "lastOpenFiles": [
-    "assets/img/Pasted image 20240624002900.png",
-    "assets/img/Pasted image 20240626004038.png",
-    "assets/img/Pasted image 20240626004425.png",
-    "assets/img/Pasted image 20240626004554.png",
-    "assets/img/Pasted image 20240626004619.png",
-    "assets/img/Pasted image 20240626004807.png",
-    "assets/img/Pasted image 20240626004820.png",
-    "assets/img/Pasted image 20240626004911.png",
-    "assets/img/Pasted image 20240626004931.png",
-    "assets/img/Pasted image 20240626005753.png",
-    "assets/img/Pasted image 20240626005756.png",
-    "_notes/Public/Space Lady.md",
+    "assets/img/Space-Lady/Pasted_image_20240626030815.png",
+    "assets/img/Space-Lady/Pasted_image_20240626030617.png",
+    "assets/img/Space-Lady/Pasted_image_20240626021726.png",
+    "assets/img/Space-Lady/Pasted_image_20240626021642.png",
+    "assets/img/Space-Lady/Pasted_image_20240626020851.png",
+    "assets/img/Space-Lady/Pasted_image_20240626020735.png",
+    "assets/img/Space-Lady/Pasted_image_20240626020429.png",
+    "assets/img/Space-Lady/Pasted_image_20240626020323.png",
+    "assets/img/Space-Lady/Pasted_image_20240626020122.png",
+    "assets/img/Space-Lady/Pasted_image_20240626015721.png",
+    "assets/img/Space-Lady/Pasted_image_20240626015059.png",
+    "assets/img/Space-Lady/test.mp4",
+    "assets/img/Space-Lady",
+    "assets/img/New folder",
+    "_posts/Space Lady.md",
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Space Lady at the Beach.md",
     "_notes/Public/Welcome to the garden.md",
