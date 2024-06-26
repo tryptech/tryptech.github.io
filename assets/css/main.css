@@ -260,7 +260,8 @@ a {
 
 img {
   height: auto;
-  max-width: 100%; 
+  max-width: 100%;
+  padding: 1rem 0; 
   display: block; }
 
 input[type="checkbox"],
