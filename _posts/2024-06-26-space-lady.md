@@ -4,7 +4,9 @@ feed: hide
 ---
 TL;DR:
 
-Dolphin Download | Wii Download
+[Dolphin Download](/assets/archive/ZSSv3-Dolphin.zip) | [Wii Download](/assets/archive/ZSSv3-Wii.zip)
+[Render Download](/assets/archive/ZSSv3-Render.zip) | [Bake Download](/assets/archive/ZSSv3-Bake.zip)
+[[How to Render]] | [[How to Bake]]
 
 ---
 
@@ -21,7 +23,7 @@ The original design goals were:
 
 The earliest surviving screens I have (rip gfycat) did not look good, and I somehow thought it was okay to call done, and there were ***a lot*** of times I thought I was done; thank goodness I kept working on it.  
 
-<video autoplay loop>
+<video autoplay muted loop>
 	<source src="/assets/img/Space-Lady/test.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
@@ -226,4 +228,6 @@ If you made it this far, I thank you for taking the time to follow my loss of sa
 
 See you next mission.
 
-Dolphin Download | Wii Download
+[Dolphin Download](/assets/archive/ZSSv3-Dolphin.zip) | [Wii Download](/assets/archive/ZSSv3-Wii.zip)
+[Render Download](/assets/archive/ZSSv3-Render.zip) | [Bake Download](/assets/archive/ZSSv3-Bake.zip)
+[[How to Render]] | [[How to Bake]]
