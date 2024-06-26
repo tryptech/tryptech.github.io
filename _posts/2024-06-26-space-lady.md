@@ -150,7 +150,7 @@ Console testing showed that these were still far from release in terms of deform
 
 Apparently, this was also an issue with the old ZSS models, but the significantly lower poly count did not exacerbate the issue unlike my new dense meshes.
 
-Some design pushback from dev around this time also made me exasperated the hell out of me since the console testing issues have been wearing me down.
+Some design pushback from dev around this time also exasperated the hell out of me since the console testing issues have been wearing me down.
 
 # October 2022
 I added very slight definition to the abs so the belly button doesn't feel too high and to add some detail to that area of the model, even if only slightly.
@@ -169,9 +169,10 @@ I couldn't reduce chest too much since it ruined the straight lines I had made o
 # May 2023
 After recovering from the burnout from having a finished model but it being too laggy to be finished, I manned up and remeshed, reweighted, and repacked every single model; I redid all of the renders to account for any notable model changes, and I adjusted Super since apparently the old mesh was too close to having a repeat of the 2B butthole rumor. I also started to get aggressively snarky in response to feedback at this time since I was feeling a bit fed up with the whole process.
 
-Also I still took the feedback seriously and added fingernails to every model and figured out where to squeeze the unused toe nail textures on the existing UVs as the nail textures.
+I still took the feedback seriously and added fingernails to every model and figured out where to squeeze the unused toe nail textures on the existing UVs as the nail textures.
 <img src="/assets/img/Space-Lady/Pasted_image_20240626030815.png" loading="lazy" alt="Fingernails">
-
+# September 2023
+I worked on the backend for a speedrun marathon over the summer, and somehow that lands me a new remote job. It seems I might retire before this mod comes out at this pace. But I do gain motivation to finish this since I'm at home all the time and can work on it in between work problems.
 # October 2023
 I go over every model and render to find where I missed adding the fingernails in.
 
