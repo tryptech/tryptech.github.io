@@ -1,5 +1,7 @@
 ---
 title: How to Bake
+feed: show
+date: 06-26-2024
 ---
 ## Minimum Requirements:
 - Blender 3.6.7+

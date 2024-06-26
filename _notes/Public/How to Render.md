@@ -1,5 +1,7 @@
 ---
 title: How to Render
+feed: show
+date: 06-26-2024
 ---
 ## Minimum requirements:
 - Blender 3.6.7+
