@@ -1,7 +1,7 @@
 ---
 title: Space Lady
 feed: hide
-date: 06-26-2024
+date: 06-25-2024
 ---
 TL;DR: Dolphin Download || Wii Download
 
