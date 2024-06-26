@@ -140,6 +140,7 @@
                         {%- if post.feed == "show" -%}
                         <div class="list-feed"> 
                         <a href="{{ site.baseurl }}{{post.url}}" style="text-decoration: none;display: flex;justify-content: space-between;flex-direction: row;width: 100%;">
+                            <div class="post-banner" style="background-image: url({{post.banner}});"></div>
                             <div class="writinglist-title">{{post.title }}</div>
                         </a>
                         </div>

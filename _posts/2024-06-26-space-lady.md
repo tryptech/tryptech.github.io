@@ -1,6 +1,7 @@
 ---
 title: Space Lady
 feed: show
+banner: /assets/img/Space-Lady/banner.png
 ---
 TL;DR:
 

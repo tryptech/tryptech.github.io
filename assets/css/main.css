@@ -261,11 +261,11 @@ a {
 img {
   height: auto;
   max-width: 100%;
-  margin: 1rem 0 0; 
+  margin: 1rem auto 0; 
   display: block; }
 
 img:last-child {
-  margin-bottom: 1rem 0;
+  margin-bottom: 1rem;
 }
 
 input[type="checkbox"],
