@@ -364,15 +364,16 @@ ul ul {
     top: 0;
     -webkit-filter: grayscale(0.8) opacity(0.5);
     filter: grayscale(0.8) opacity(0.5);
-    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1),
+    filter 0.2s linear,
+    -webkit-filter 0.2s linear;
+    transform-origin: 20% 50%;
 }
 
 .list-feed a:hover .post-banner {
-    width: calc(100% + 2rem);
-    height: calc(100% + 2rem);
+    transform: scale(1.10);
     -webkit-filter: grayscale(0) opacity(1);
     filter: grayscale(0) opacity(1);
-
 }
 
 .list-feed a .writinglist-title {
