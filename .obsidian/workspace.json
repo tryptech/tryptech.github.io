@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Space Lady.md",
+                "file": "_posts/2024-06-26-space-lady.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Space Lady.md",
+                "file": "_posts/2024-06-26-space-lady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Space Lady.md",
+                "file": "_posts/2024-06-26-space-lady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Space Lady.md"
+                "file": "_posts/2024-06-26-space-lady.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "41c34b42670b2494",
   "lastOpenFiles": [
+    "_posts/2020-03-01-how-to.md",
+    "_posts/2024-06-26-space-lady.md",
     "_notes/Public/Welcome to the garden.md",
+    "_posts/2024-06-24-space-lady.md",
     "_notes/Public/Space Lady.md",
+    "_posts/Space Lady.md",
     "_notes/Public/Space Lady at the Beach.md",
     "assets/video",
     "assets/img/Space-Lady/Pasted_image_20240626030815.png",
@@ -171,7 +175,6 @@
     "Untitled.canvas",
     "pages/index.md",
     "_posts/2020-03-01-features.md",
-    "_posts/2020-03-01-how-to.md",
     "pages/404.md",
     "pages/lists.md",
     "pages/notes.md",

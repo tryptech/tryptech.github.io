@@ -76,7 +76,7 @@ In 2021, I took about a month going back and forth about how to do teased and fe
 
 I spent some time working on the UVs, textures, and materials for the hair and came up with a way to fake an anisotropic effect on the hair. I'm particularly proud of this extremely subtle detail. And with that being wrapped up, I shelved work on ZSS while I wasted my time away on other things while waiting on SJS to finish the Chozo/Training and skin textures <img src="/assets/img/Space-Lady/Pasted_image_20240626011347.png" loading="lazy" alt="Fake anisotropic effect">
 
-# June 20201
+# June 2021
 5 months go by. I start a new job. I quit that job and start another job. Monster Hunter Rise becomes my time sink. Eventually in June I get back to working on ZSS again. Here I came up with the preliminary simple recolor node setup.
 <img src="/assets/img/Space-Lady/Pasted_image_20240626012157.png" loading="lazy" alt="texture recolor setup">
 
@@ -215,10 +215,12 @@ But we're at the finish line and I clean up the metal materials, and call it a d
 # June 2024
 The second and third ZSS Art+ post go out. What a time gap, huh?
 
-As of writing, I don't think anyone has anything bad to say about the new ZSS. At least publicly. Reception is good. All that's left is to write up the devlog.
+As of writing, I don't think anyone has anything bad to say about the new ZSS. At least publicly. Reception is good. All that's left is to wrap up the devlog.
 
 ---
 
-If you made it this far, I thank you for taking the time to follow my loss of sanity as I get hyperfixated on and then get annoyed and frustrated on the hyperfixation of a certain alien-hybrid space lady.
+If you made it this far, I thank you for taking the time to follow my loss of sanity as I get hyperfixated on and then get annoyed and frustrated on the hyperfixation of a certain alien-hybrid space lady. The process should be a lot easier from this point on and I have plenty of magic numbers to make the end result run well on console.
+
+See you next mission.
 
 Dolphin Download | Wii Download
