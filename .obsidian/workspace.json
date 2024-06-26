@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9f27bc2f559dfa",
+        "id": "9d233b99c1c55544",
         "type": "tabs",
         "children": [
           {
-            "id": "282e896cf7795fdd",
+            "id": "41c34b42670b2494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "_notes/Public/Space Lady.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "_notes/Public/Space Lady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "_notes/Public/Space Lady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "_notes/Public/Space Lady.md"
               }
             }
           }
@@ -146,27 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "282e896cf7795fdd",
+  "active": "41c34b42670b2494",
   "lastOpenFiles": [
+    "assets/img/Pasted image 20240624002900.png",
+    "assets/img/Pasted image 20240626004038.png",
+    "assets/img/Pasted image 20240626004425.png",
+    "assets/img/Pasted image 20240626004554.png",
+    "assets/img/Pasted image 20240626004619.png",
+    "assets/img/Pasted image 20240626004807.png",
+    "assets/img/Pasted image 20240626004820.png",
+    "assets/img/Pasted image 20240626004911.png",
+    "assets/img/Pasted image 20240626004931.png",
+    "assets/img/Pasted image 20240626005753.png",
+    "assets/img/Pasted image 20240626005756.png",
     "_notes/Public/Space Lady.md",
     "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Space Lady at the Beach.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Credits.md",
+    "assets/img/test.mp4",
+    "Untitled.canvas",
+    "pages/index.md",
     "_posts/2020-03-01-features.md",
     "_posts/2020-03-01-how-to.md",
-    "assets/img/external-link.svg",
-    "assets/img/OGImg.png",
-    "assets/img/Pasted image 20240624002900.png",
-    "assets/img/sun.svg",
     "pages/404.md",
     "pages/lists.md",
-    "pages/index.md",
     "pages/notes.md",
     "pages/posts.md",
-    "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Hidden Note.md",
-    "_notes/Public/Credits.md",
-    "_notes/Public/Space Lady at the Beach.md",
-    "assets/img/2-how-to.png",
-    "assets/img/1-how-to.png",
     "Untitled"
   ]
 }
