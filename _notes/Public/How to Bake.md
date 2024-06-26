@@ -7,8 +7,8 @@ date: 2024-06-26
 - Blender 3.6.7+
 - Modern dedicated graphics card (recommended)
 
-<img src="/assets/img/How-to-Bake/Pasted image 20240626155538.png" loading="lazy">
-<img src="/assets/img/How-to-Bake/Pasted image 20240626155112.png" loading="lazy">
+<img src="/assets/img/How-to-Bake/Pasted_image_20240626155538.png" loading="lazy">
+<img src="/assets/img/How-to-Bake/Pasted_image_20240626155112.png" loading="lazy">
 
 ## Steps
 ###### *Refer to the above screenshots*
