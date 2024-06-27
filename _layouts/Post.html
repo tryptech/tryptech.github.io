@@ -32,9 +32,11 @@
 <head>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="tryptech" property="og:site_name" />
-    <meta
-        content="guy doing things"
-        property="og:description">
+    {%- if page.description -%}
+    <meta content="{{page.description}}" property="og:description">
+    {%- else -%}
+    <meta content="guy doing things" property="og:description">
+    {%- endif -%}
     <meta content="{{ site.url }}/about/" property="article:author">
     <meta property="og:image" content="../assets/img/OGImg.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
