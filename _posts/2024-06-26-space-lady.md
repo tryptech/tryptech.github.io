@@ -2,6 +2,7 @@
 title: Space Lady
 feed: show
 banner: /assets/img/Space-Lady/banner.png
+description: Devlog for the development timeline of ZSSv3 for P+ 3.0
 ---
 TL;DR:
 
