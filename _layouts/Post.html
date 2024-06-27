@@ -66,6 +66,22 @@
     <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
     <script src="https://kit.fontawesome.com/0a65c76ab6.js" crossorigin="anonymous"></script>
+    <script src="https://giscus.app/client.js"
+        data-repo="tryptech/tryptech.github.io"
+        data-repo-id="R_kgDOKrrV_A"
+        data-category="General"
+        data-category-id="DIC_kwDOKrrV_M4CgaZ1"
+        data-mapping="title"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+    </script>
 </head>
 
 <body>
@@ -126,6 +142,8 @@
                     {%- include Content.html -%}
                     {%- include Backlinks.html -%}
                     </div>
+                    <div class="giscus">
+                    </div>
             </div>
             {%- endif -%}
 
@@ -168,6 +186,8 @@
                      <h1>{{page.title}}</h1>
                      {%- include Content.html -%}
                      {%- include Backlinks.html -%}
+                     </div>
+                     <div class="giscus">
                      </div>
              </div>
              {%- endif -%}
