@@ -40,7 +40,11 @@
     <meta content="guy doing things" property="twitter:description">
     {%- endif -%}
     <meta content="{{ site.url }}/about/" property="article:author">
-    <meta property="og:image" content="../assets/img/OGImg.png">
+    {%- if page.card -%}
+    <meta property="og:image" content="{{ site.baseurl }}{{ page.card }}" />
+    <meta property="twitter:image" content="{{ site.baseurl }}{{ page.card }}" />
+    <meta property="twitter:card" content="summary_large_image" />
+    {%- endif -%}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap"
@@ -57,14 +61,9 @@
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
     <meta content="{{ site.url }}{{ page.url }}" property="twitter:url" />
     {%- endif -%}
-    {%- if page.card -%}
-    <meta property="og:image" content="{{ site.baseurl }}{{ page.card }}" />
-    <meta property="twitter:image" content="{{ site.baseurl }}{{ page.card }}" />
-    <meta property="twitter:card" content="summary_large_image" />
-    {%- endif -%}
     {%- if page.permalink == "/" -%}
     <title>{{site.heading}}</title>
-    {%- else =%}
+    {%- else -%}
     <title>{{page.title}} - {{site.heading}}</title>
     {%- endif -%}
     <script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
