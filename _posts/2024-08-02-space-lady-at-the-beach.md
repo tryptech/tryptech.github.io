@@ -7,9 +7,9 @@ card: /assets/img/Space-Lady-at-the-Beach/card.png
 ---
 Greetings you grotesque gamer gooners. Gaze and gawk at this garb of groin-girding gratification and glamorous gregariousness.
 
-I started working on this "early" on in the ZSSv3 dev timeline, late summer 2021. I originally made a "Gris" swimsuit, but since I wanted to make something that could be actually used on a tourney stream, I had to do a regular ol' swim suit. This design is very heavily inspired by (eg. almost entirely lifted from but simplified) [Houshou Marine's swimsuit Live2D outfit, originally revealed July 29, 2021](https://www.youtube.com/watch?v=p1-t-U8VvqA&t=2524s). 
+I started working on this "early" on in the ZSSv3 dev timeline, late summer 2021. I originally made a "Gris" swimsuit, but since I wanted to make something that could be actually used on a tourney stream, I had to do a regular ol' swim suit. Both would not be possible without SJ's full body texture work. This design is very heavily inspired by (eg. almost entirely lifted from but simplified) [Houshou Marine's swimsuit Live2D outfit, originally revealed July 29, 2021](https://www.youtube.com/watch?v=p1-t-U8VvqA&t=2524s). 
 
-That's right, this is a VTuber cosplay outfit and no one can stop me.
+*That's right, this is a VTuber cosplay outfit and no one can stop me.*
 
 For your convenience, at the cost of my dwindling sanity, I have provided options for a customizable state of dress consisting of the following (and their associated shorthand code):
 
