@@ -13,11 +13,15 @@ I started working on this "early" on in the ZSSv3 dev timeline, late summer 2021
 
 For your convenience, at the cost of my dwindling sanity, I have provided options for a customizable state of dress consisting of the following (and their associated shorthand code):
 
-- 4 different hair styles (P/B/Hd/Hb),
+- 5 different hair styles (P/PH/B/Hd/Hb),
+    - Ponytail
+    - Ponytail w/ Hat
+    - Bun
+    - Hair Down
+    - Hair Back
 - a hoodie (Hc/Ho),
 - a crop top (Shi),
 - some shorts (Sho),
-- a hat (if using ponytail) (H),
 - and sunglasses (Go/Gu)
 
 Please find the combination of codes that meets your minimum of family-friendly beachwear out of the 180 different options. *(For the cosmetics, you will unfortunately have to dig through the release to find what you want or render them on the spot, I couldn't be bothered to rename that many files.)*
