@@ -19,7 +19,7 @@ For your convenience, at the cost of my dwindling sanity, I have provided option
 
 Please find the combination of codes that meets your level of family-friendliness out of the 180 different beachwear options. I do not expect this to run at a perfect 60fps in doubles or 4 man free-for-all, but should be fine for singles. The less she has on, the better she performs. *In theory*.
 
-There is only one render scene made in the latest Blender 4.2 LTS. CSP2 style lights are included, but by default the scene is designed around CSP3.
+The downloads are large, I'm sorry (not really). There is only one render scene made in the latest Blender 4.2 LTS. CSP2 style lights are included, but by default the scene is designed around better lighting.
 
 Download
 [Main Download](/assets/archive/ZSSBeach.zip) | [Color Atlas Template](/assets/img/Space-Lady-at-the-Beach/ColorAtlasTemplate.png)
@@ -32,7 +32,7 @@ I started Beach Samus by modeling out her feet. Honestly, it was probably the tr
 <img src="/assets/img/Space-Lady-at-the-Beach/Pasted_image_20240626052330.png" loading="lazy"/>
 
 # March 2022
-Around this time, I finish a basic import of the Gris swimsuit and what I called at the time "[Hot Girl Samus](https://www.youtube.com/watch?v=FbcLcSY2au4)". No where near ready to go, but it was working.
+Around this time, I finish a basic import of the Gris swimsuit and what I called at the time "[Hot Girl Samus](https://www.youtube.com/watch?v=FbcLcSY2au4)". Nowhere near ready to go, but it was working.
 
 # May 2022
 Naively, I think I'm done after finishing the bikini and adding the ability to color it in shader. (Hint: *I wasn't*)
@@ -106,4 +106,8 @@ Similar to the pacs, I had to redo the renders a few times because of a mistake 
 	Your browser does not support the video tag.
 </video>
 
-It's still summer so this is still a period appropriate release right?
+It's still summer so this is still the right time to release right?
+
+Download
+[Main Download](/assets/archive/ZSSBeach.zip) | [Color Atlas Template](/assets/img/Space-Lady-at-the-Beach/ColorAtlasTemplate.png)
+[Premade Renders pt. 1](/assets/archive/ZSSBeach-Render.7z.001) | [Premade Renders pt. 2](/assets/archive/ZSSBeach-Render.7z.002) | [Premade Renders pt. 3](/assets/archive/ZSSBeach-Render.7z.003)
