@@ -3,7 +3,7 @@ title: Space Lady at the Beach
 feed: show
 description: Devlog for the development timeline of Beach ZSS
 banner: /assets/img/Space-Lady-at-the-Beach/banner.png
-card: /assets/img/Space-Lady/card.png
+card: /assets/img/Space-Lady-at-the-Beach/card.png
 ---
 Greetings you grotesque gamer gooners. Gaze and gawk at this garb of groin-girding gratification and glamorous gregariousness.
 
