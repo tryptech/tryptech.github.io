@@ -22,6 +22,7 @@ Please find the combination of codes that meets your level of family-friendlines
 The downloads are large, I'm sorry (not really). There is only one render scene made in the latest Blender 4.2 LTS. CSP2 style lights are included, but by default the scene is designed around better lighting.
 
 Download
+
 [Main Download](/assets/archive/ZSSBeach.zip) | [Color Atlas Template](/assets/img/Space-Lady-at-the-Beach/ColorAtlasTemplate.png)
 [Premade Renders pt. 1](/assets/archive/ZSSBeach-Render.7z.001) | [Premade Renders pt. 2](/assets/archive/ZSSBeach-Render.7z.002) | [Premade Renders pt. 3](/assets/archive/ZSSBeach-Render.7z.003)
 
@@ -109,5 +110,6 @@ Similar to the pacs, I had to redo the renders a few times because of a mistake 
 It's still summer so this is still the right time to release right?
 
 Download
+
 [Main Download](/assets/archive/ZSSBeach.zip) | [Color Atlas Template](/assets/img/Space-Lady-at-the-Beach/ColorAtlasTemplate.png)
 [Premade Renders pt. 1](/assets/archive/ZSSBeach-Render.7z.001) | [Premade Renders pt. 2](/assets/archive/ZSSBeach-Render.7z.002) | [Premade Renders pt. 3](/assets/archive/ZSSBeach-Render.7z.003)
