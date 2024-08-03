@@ -22,7 +22,9 @@ Please find the combination of codes that meets your level of family-friendlines
 There is only one render scene made in the latest Blender 4.2 LTS. CSP2 style lights are included, but by default the scene is designed around CSP3.
 
 Download
-[Main Download](/assets/archive/ZSSBeach.zip) | [Premade Renders](/assets/archive/ZSSBeach-Render.zip) | [Color Atlas Template](/assets/img/Space-Lady-at-the-Beach/ColorAtlasTemplate.png)
+[Main Download](/assets/archive/ZSSBeach.zip) | [Color Atlas Template](/assets/img/Space-Lady-at-the-Beach/ColorAtlasTemplate.png)
+[Premade Renders pt. 1](/assets/archive/ZSSBeach-Render.7z.001) | [Premade Renders pt. 2](/assets/archive/ZSSBeach-Render.7z.002) | [Premade Renders pt. 3](/assets/archive/ZSSBeach-Render.7z.003)
+
 
 ---
 # July 2021
