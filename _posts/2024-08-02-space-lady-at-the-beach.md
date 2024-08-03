@@ -1,14 +1,16 @@
 ---
 title: Space Lady at the Beach
-feed: hide
+feed: show
+description: Devlog for the development timeline of Beach ZSS
+banner: /assets/img/Space-Lady-at-the-Beach/card.png
 ---
-Greetings you grotesque gamer gooners.
+Greetings you grotesque gamer gooners. Gaze and gawk at this garb of groin-girding gratification and glamorous gregariousness.
 
-I started working on this "early" on in the ZSS dev timeline, late summer 2021. I originally made a "Gris" swimsuit, but since I wanted to make something that could be actually used on a tourney stream, regular ol' swim suit it was. This design is very heavily inspired by (eg. almost entirely lifted from) Houshou Marine's swimsuit Live2D outfit, originally revealed July 29, 2021. 
+I started working on this "early" on in the ZSSv3 dev timeline, late summer 2021. I originally made a "Gris" swimsuit, but since I wanted to make something that could be actually used on a tourney stream, I had to do a regular ol' swim suit. This design is very heavily inspired by (eg. almost entirely lifted from but simplified) [Houshou Marine's swimsuit Live2D outfit, originally revealed July 29, 2021](https://www.youtube.com/watch?v=p1-t-U8VvqA&t=2524s). 
 
-That's right, this is a VTuber cosplay outfit and no one can stop me hahaha.
+That's right, this is a VTuber cosplay outfit and no one can stop me.
 
-For your convenience, at the cost of my dwindling sanity, I have provided options for a customizable amount of stream safety consisting of the following (and their associated shorthand code):
+For your convenience, at the cost of my dwindling sanity, I have provided options for a customizable state of dress consisting of the following (and their associated shorthand code):
 
 - 4 different hair styles (P/B/Hd/Hb),
 - a hoodie (Hc/Ho),
@@ -17,9 +19,19 @@ For your convenience, at the cost of my dwindling sanity, I have provided option
 - a hat (if using ponytail) (H),
 - and sunglasses (Go/Gu)
 
-Please find the combination of codes that meets your level of family-friendliness out of the 180 different beachwear options. I do not expect this to run at a perfect 60fps in doubles or 4 man free-for-all, but should be fine for singles. The less she has on, the better she performs. *In theory*.
+Please find the combination of codes that meets your minimum of family-friendly beachwear out of the 180 different options. *(For the cosmetics, you will unfortunately have to dig through the release to find what you want or render them on the spot, I couldn't be bothered to rename that many files.)*
 
-The downloads are large, I'm sorry (not really). There is only one render scene made in the latest Blender 4.2 LTS. CSP2 style lights are included, but by default the scene is designed around better lighting.
+I do not expect this to run at a perfect 60fps in doubles or 4-player free-for-all, but should be fine for singles. The less clothes she has, the better her performance - *in theory*.
+
+A simple color atlas plus grayscale texture files allow for easy color customization. Hoodie decals are separated out for easy replacement. Grayscale texture files are provided to also allow for more complex texture customization.
+
+There is only one render scene made in the latest Blender 4.2 LTS. If that prevents your potato processor from opening the render scenes, sorry but not really. The newest Khronos PBR Neutral view transform is used as it more accurately tracks to the colors the a user selects in a normal desktop environment while maintaining a high dynamic range with appropriate color falloff for bright lights. 
+
+CSP2 style lights are included, but by default the scene is designed around more modern lighting. Eevee-Next based shadows and raytracing/global illumination means this will look different from other CSP2 renders.
+
+The downloads for the premade renders are somewhat large, I would suggest rendering new ones as you need them.
+
+Leave a comment down at the bottom for any customization/rendering complications.
 
 Download
 

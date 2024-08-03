@@ -34,8 +34,10 @@
     <meta content="tryptech" property="og:site_name" />
     {%- if page.description -%}
     <meta content="{{page.description}}" property="og:description">
+    <meta content="{{page.description}}" property="twitter:description">
     {%- else -%}
     <meta content="guy doing things" property="og:description">
+    <meta content="guy doing things" property="twitter:description">
     {%- endif -%}
     <meta content="{{ site.url }}/about/" property="article:author">
     <meta property="og:image" content="../assets/img/OGImg.png">
@@ -44,12 +46,21 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap"
         rel="stylesheet">
     {%- if page.title -%}
-    <meta content="{{ page.title }}" property="og:title">
     <meta content="article" property="og:type">
+    <meta name="title" content="{{ page.title }}">
+    <meta content="{{ page.title }}" property="og:title">
+    <meta content="{{ page.title }}" property="twitter:title">
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    <meta content="{{ site.url }}{{ page.url }}" property="twitter:url" />
     {%- else -%}
     <meta content="website" property="og:type">
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    <meta content="{{ site.url }}{{ page.url }}" property="twitter:url" />
+    {%- endif -%}
+    {%- if page.card -%}
+    <meta property="og:image" content="{{ site.baseurl }}{{ page.card }}" />
+    <meta property="twitter:image" content="{{ site.baseurl }}{{ page.card }}" />
+    <meta property="twitter:card" content="summary_large_image" />
     {%- endif -%}
     {%- if page.permalink == "/" -%}
     <title>{{site.heading}}</title>
