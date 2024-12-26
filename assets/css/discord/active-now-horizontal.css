@@ -1,0 +1,29 @@
+.nowPlayingColumn_c2739c {
+    display: block;
+    width: 100%;
+    max-width: unset;
+}
+
+.tabBody_c2739c {
+    display: flex;
+    flex-direction: column-reverse;
+    padding-top: 1.5px;
+}
+
+.scroller_bf550a  {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    overflow: scroll !important;
+    align-items: flex-start;
+}
+
+.header_bf550a {
+    position: fixed;
+}
+
+.itemCard_f02fcf  {
+    margin-top: 48px !important;
+    width: fit-content;
+    min-width: 240px;
+}
