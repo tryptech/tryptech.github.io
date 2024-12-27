@@ -81,6 +81,11 @@
         max-width: calc(var(--custom-panel-width) - 16px);
     }
 
+    .container_c64476 {
+        width: var(--custom-panel-width);
+        max-width: unset;
+    }
+
     &:hover {
         left: calc(var(--Member-List-Offset) - var(--custom-panel-width));
 
