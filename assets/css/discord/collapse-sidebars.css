@@ -133,7 +133,8 @@ html:not(.visual-refresh_a4d4d9) { /* collapsible sidebar */
             backdrop-filter: blur(20px);
             -webkit-backdrop-filter: blur(20px);
 
-            transition: width 0.2s ease-in-out 0s;
+            transition: width 0.2s ease-in-out 0s,
+                background 0.2s ease-in-out 0s;
 
             .container_b2ca13 {
                 display: flex;
@@ -172,7 +173,11 @@ html:not(.visual-refresh_a4d4d9) { /* collapsible sidebar */
 
             &:hover {
                 width: calc(var(--tab-width) * 4);
-                transition: width 0.2s ease-in-out 0.2s;
+
+                background: var(black);
+
+                transition: width 0.2s ease-in-out 0.2s, 
+                    background 0.2s ease-in-out 0s;
                 
             }
         }
