@@ -1,3 +1,14 @@
+:root {
+    --custom-panel-width: 300px;
+
+    /* --- Member List Offsets --- */
+    --Member-List-Offset: 100%;
+    --Member-list-Cutoff: 80%;
+
+    --tab-height: 50px;
+    --tab-width: 36px;
+}
+
 /* Member/search sidebar collapse */
 .theme-dark {
     .container_cbd271:before, .container_b767ed:before {
