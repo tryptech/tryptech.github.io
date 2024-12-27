@@ -150,6 +150,7 @@ html:not(.visual-refresh_a4d4d9) { /* collapsible sidebar */
                 flex-direction: column;
                 justify-content: center;
                 align-items: flex-start;
+                height: 100%;
                 flex-grow: 1;
 
                 .avatarWrapper_b2ca13 {
