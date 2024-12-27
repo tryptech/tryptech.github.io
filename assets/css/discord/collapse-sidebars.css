@@ -145,7 +145,7 @@ html:not(.visual-refresh_a4d4d9) { /* collapsible sidebar */
                 flex-direction: column;
                 justify-content: center;
                 align-items: flex-start;
-                height: 100%;
+                flex-grow: 1;
 
                 .avatarWrapper_b2ca13 {
                     display: flex;
@@ -175,6 +175,153 @@ html:not(.visual-refresh_a4d4d9) { /* collapsible sidebar */
                 }
             }
 
+            &:has(.wrapper_adcaac>.container_adcaac) {
+                
+                padding-top: 8px;
+                top: calc(50% - (var(--tab-height) * 4.5));
+                height: calc(var(--tab-height) * 9);
+                display: flex;
+                flex-direction: column;
+
+                .wrapper_adcaac {
+                    order: 1;
+
+                    .container_adcaac {
+
+                        padding: 6px;
+
+                        .connection_adcaac {
+
+                            .inner_adcaac {
+                                padding-left: 6px;
+
+                                .rtcConnectionStatusWrapper_c02c63 {
+
+                                    display: flex;
+                                    flex-direction: column;
+                                    align-items: flex-start;
+                                    justify-content: flex-start;
+
+                                    .ping_c02c63 {
+                                        width: 24px;
+                                        height:24px;
+                                    }
+
+                                    .labelWrapper_c02c63, a {
+                                        opacity: 0;
+                                    }
+
+                                }
+                            }
+
+                        }
+
+                        .connection_adcaac {
+                        display: flex;
+                        flex-direction: column;
+                        align-items: flex-start;
+                        overflow: hidden;
+
+                        .voiceButtonsContainer_adcaac {
+                            display: flex;
+                            flex-direction: column;
+                            margin-left: 0px;
+
+                            & > * {
+                                min-width: 38px;
+                            }
+                        }
+
+                        }
+
+                        .actionButtons_adcaac {
+                        display: flex;
+                        flex-direction: column;
+                        align-items: flex-start;
+
+                        & > * {
+                            width: 38px;
+                        }
+
+                        .button_adcaac {
+                            padding: 2px;
+                        }
+                        }
+
+                    }
+
+                }
+
+                .container_b2ca13 {
+                    height: unset;
+                    flex-grow: 1;
+                    order: 3
+                }
+
+            }
+
+            &:has(.activityPanel_a4d4d9) {
+
+                padding-top: 8px;
+                top: calc(50% - (var(--tab-height) * 3));
+                height: calc(var(--tab-height) * 6);
+                display: flex;
+                flex-direction: column;
+                
+                .activityPanel_a4d4d9 {
+
+                    padding:6px;
+                    flex-grow: 1;
+
+                    .body_bf1a22 {
+                        flex-direction: column;
+                        align-items: flex-start;
+
+                        .gameWrapper_aa73eb{
+                            padding-left: 3px;
+
+                            .info_aa73eb {
+                                opacity: 0;
+                            }
+
+                        }
+
+                        .actions_d14755 {
+                            flex-direction: column;
+                            padding-left: 0px;
+                            padding-top: 7px;
+                        }
+
+                    }
+
+                }
+
+                .container_b2ca13 {
+                    height: unset;
+                    flex-grow: 1;
+                    order: 3
+                }
+
+            }
+
+            &:has(.activityPanel_a4d4d9+.wrapper_adcaac>.container_adcaac) {
+                padding-top: 8px;
+                top: calc(50% - (var(--tab-height) * 5.5));
+                height: calc(var(--tab-height) * 11);
+                display: flex;
+                flex-direction: column;
+
+                .wrapper_adcaac {
+
+                    .container_adcaac {
+
+                        padding-top: 12px;
+
+                    }
+
+                }
+            }
+
             &:hover {
                 width: calc(var(--tab-width) * 4);
 
@@ -183,6 +330,34 @@ html:not(.visual-refresh_a4d4d9) { /* collapsible sidebar */
                 transition: width 0.2s ease-in-out 0.2s, 
                     background 0.2s ease-in-out 0s;
                 
+                &:has(.wrapper_adcaac>.container_adcaac) {
+                    .wrapper_adcaac {
+                        .container_adcaac {
+                            .connection_adcaac {
+                                .inner_adcaac {
+                                    .rtcConnectionStatusWrapper_c02c63 {
+                                        .labelWrapper_c02c63, a {
+                                            opacity: 0;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+                &:has(.activityPanel_a4d4d9) {
+                    .activityPanel_a4d4d9 {
+                        .body_bf1a22 {
+                            .gameWrapper_aa73eb{
+                                .info_aa73eb {
+                                    opacity: 1;
+                                }
+                            }
+                        }
+                    }
+                }
+
             }
         }
 
