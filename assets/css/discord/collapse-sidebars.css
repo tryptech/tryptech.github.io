@@ -337,7 +337,7 @@ html:not(.visual-refresh_a4d4d9) { /* collapsible sidebar */
                                 .inner_adcaac {
                                     .rtcConnectionStatusWrapper_c02c63 {
                                         .labelWrapper_c02c63, a {
-                                            opacity: 0;
+                                            opacity: 1;
                                         }
                                     }
                                 }
