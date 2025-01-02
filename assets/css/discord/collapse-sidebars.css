@@ -109,7 +109,7 @@ html:not(.visual-refresh_a4d4d9) { /* collapsible sidebar */
     .sidebar_a4d4d9:not(.hidden_a4d4d9) {
         position: absolute;
         left: calc(var(--custom-panel-width) * -1);
-        z-index: 2;
+        z-index: 3;
         width: var(--custom-panel-width) !important;
         border-radius: 0 15px 15px 0 !important; 
         max-height: calc(var(--Member-list-Cutoff) - 24px);
