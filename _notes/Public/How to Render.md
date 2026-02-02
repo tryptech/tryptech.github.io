@@ -1,6 +1,6 @@
 ---
 title: How to Render
-feed: show
+feed: hide
 date: 2024-06-26
 notetype: unfeed
 ---
