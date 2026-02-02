@@ -2,6 +2,7 @@
 title: How to Render
 feed: show
 date: 2024-06-26
+notetype: unfeed
 ---
 ## Minimum requirements:
 - Blender 3.6.7+

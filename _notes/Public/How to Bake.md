@@ -2,6 +2,7 @@
 title: How to Bake
 feed: show
 date: 2024-06-26
+notetype: unfeed
 ---
 ## Minimum Requirements:
 - Blender 3.6.7+
